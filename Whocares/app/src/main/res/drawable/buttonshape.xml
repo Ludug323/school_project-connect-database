@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--設定圓角-->
+    <corners android:radius="4dp"/>
+    <!--設定邊框線的寬度和顏色-->
+    <stroke android:width="2dp" android:color="#000000"
+            android:dashGap="2dp" android:dashWidth="10dp"/>
+</shape>

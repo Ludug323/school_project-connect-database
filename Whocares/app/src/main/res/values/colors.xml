@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_light_500">#77FFCC</color>
+    <color name="deepgreen">#008844</color>
+    <color name="midblue">#0066FF</color>
+    <color name="midred">#FF0000</color>
+    <color name="dodgerblue">#1E90FF</color>
+    <color name="lightsteelblue">#B0C4DE</color>
+    <color name="mediumblue">#0000CD</color>
+    <color name="dimgray">#696969</color>
+    <color name="mediumspringgreen">#00FA9A</color>
+    <color name="aquamarine">#7FFFD4</color>
+    <color name="white">#ffffff</color>
+    <color name="DeepBlack">#111111</color>
+</resources>
